@@ -1,0 +1,8 @@
+{
+  "name": "Vui Học Toán 4 - Kì 1 (Chương trình mới)",
+  "description": "Ứng dụng học tập và ôn tập môn Toán Lớp 4 Học kì 1 chuẩn chương trình mới 2026. Tích hợp bài học trực quan, trắc nghiệm tương tác sinh động, minigame toán học và bảng điều khiển theo dõi tiến độ chi tiết cho phụ huynh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
