@@ -75,7 +75,7 @@ export const StudentHome: React.FC<StudentHomeProps> = ({
                 className="px-5 py-3 rounded-2xl bg-amber-400 hover:bg-amber-300 text-amber-950 font-black text-sm shadow-lg hover:scale-105 transition-all flex items-center gap-2 cursor-pointer"
               >
                 <Play className="w-4 h-4 fill-amber-950" />
-                Thi Thử Toàn Diện Kì 1 🎯
+                Thi Thử Toàn Diện (10 Câu) 🎯
               </button>
 
               <button
@@ -228,7 +228,7 @@ export const StudentHome: React.FC<StudentHomeProps> = ({
                     className="py-2.5 px-3 rounded-xl bg-emerald-600 hover:bg-emerald-700 text-white font-black text-xs transition-all shadow-xs flex items-center justify-center gap-1.5 cursor-pointer"
                   >
                     <Play className="w-3.5 h-3.5 fill-white" />
-                    Luyện Tập
+                    Luyện Tập (10 câu)
                   </button>
                 </div>
               </div>
